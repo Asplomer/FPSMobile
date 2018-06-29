@@ -1,12 +1,12 @@
-[Tt]emp/
-[Ll]ibrary/
-[Oo]bj/
-.vs/
+FPSmobileS/[Tt]emp/
+FPSmobileS/[Ll]ibrary/
+FPSmobileS/[Oo]bj/
+FPSmobileS/.vs/
 
-/*.csproj
-/*.unityproj
-/*.sln
-/*.suo
-/*.user
-/*.userprefs
-/*.pidb
+/FPSmobileS/*.csproj
+/FPSmobileS/*.unityproj
+/FPSmobileS/*.sln
+/FPSmobileS/*.suo
+/FPSmobileS/*.user
+/FPSmobileS/*.userprefs
+/FPSmobileS/*.pidb
